@@ -1,0 +1,10 @@
+int main()
+{
+    int x, y;
+    scanf ("%d,%d", &x, &y);
+    x+y=soma
+    if (x % 13 != 0 or y % 13 != 0)
+        printf("soma\n");
+    else
+        return 0;
+}
